@@ -1,16 +1,19 @@
-# simple_login
+# Simple Login
 
-A new Flutter project.
+This project is a simple login page. Wanted to try out authentication with spring boot too
 
-## Getting Started
+## Dependencies
+- [x] None for now
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## Help
+A few resources to get you started with Flutter
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- The Flutter [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+<img src="screenshots/Login.png" alt="Login Screen" style="width:400px;"/>
+
+
