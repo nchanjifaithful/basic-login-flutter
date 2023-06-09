@@ -13,7 +13,7 @@ A few resources to get you started with Flutter
 - The Flutter [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
 
-## Screenshots
+## Screenshot
 <img src="screenshots/Login.png" alt="Login Screen" style="width:400px;"/>
 
 
